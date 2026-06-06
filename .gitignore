@@ -1,0 +1,11 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test images and outputs
+test.png
+output*.png
+stego*.png
+*.jpg
+*.jpeg
